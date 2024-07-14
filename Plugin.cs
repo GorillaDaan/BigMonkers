@@ -49,7 +49,7 @@ namespace GorillaTagModTemplateProject
 
 		void Update()
 		{
-			if(inRoom == true)
+			if(inRoom)
 			{
 				BigMonkers();
 			}
