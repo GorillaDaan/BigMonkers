@@ -67,8 +67,8 @@ namespace GorillaTagModTemplateProject
 		[ModdedGamemodeLeave]
 		public void OnLeave(string gamemode)
 		{
-            GorillaLocomotion.Player.Instance.scale = 1;
-            inRoom = false;
+            		GorillaLocomotion.Player.Instance.scale = 1;
+            		inRoom = false;
 		}
 
 		public void BigMonkers()
